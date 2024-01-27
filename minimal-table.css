@@ -21,6 +21,8 @@ table {
   border: 2px solid #021f59;
   letter-spacing: 1px;
   font-size: 0.8rem;
+
+  min-width: 30%;
 }
 
 td, th {
